@@ -182,5 +182,36 @@ Here is the information on this particular data set:
 </table>
 
 
-Results:
-Logistic Regression
+
+# 📊  Results
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Machine Learning Model</th>
+      <th>Recall</th>
+      <th>Precision</th>
+      <th>F1 Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Logistic Regression</td>
+      <td>0.64</td>
+      <td>0.54</td>
+     <td>0.59</td>
+    </tr>
+    <tr>
+      <td>Random Forest</td>
+      <td>0.72</td>
+      <td>0.51</td>
+     <td>0.59</td>
+    </tr>
+        <tr>
+      <td>XG Boost</td>
+      <td>0.71</td>
+      <td>0.55</td>
+     <td>0.62</td>
+    </tr>
+
+
+
