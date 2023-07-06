@@ -180,3 +180,7 @@ Here is the information on this particular data set:
     </tr>
   </tbody>
 </table>
+
+
+Results:
+Logistic Regression
